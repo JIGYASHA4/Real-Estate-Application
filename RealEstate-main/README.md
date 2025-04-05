@@ -56,7 +56,7 @@ To keep users engaged, I’ve added:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ErChitraDhir/RealEstate/
+git clone https://github.com/JIGYASHA4/Real-Estate-Application/
 ```
 
 2. Navigate to the project directory:
@@ -120,15 +120,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-Chitra Dhir
+Jigyasha Gangwal
 
 ## 🙏 Acknowledgments
 
 - Boxicons for the beautiful icons
 - Swiper.js for the smooth carousel functionality
 - ScrollReveal for the scroll animations
-- All contributors who have helped improve this project
 
 ---
 
-Made with ❤️ by Chitra Dhir
+Made with ❤️ by Jigyasha Gangwal
